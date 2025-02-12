@@ -22,3 +22,9 @@ washington.csv
 
 ### Credits
 The Udacity Data Science Nanodegree includes this project.
+
+### How to Execute the Program
+Use the following command on your terminal to examine bikeshare data:
+    Python bikeshare.py
+
+To filter the data, you will be asked to pick a city, month, and day.
