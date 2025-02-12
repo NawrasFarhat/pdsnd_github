@@ -20,7 +20,7 @@ def get_filters():
             print("Invalid input. Please enter either Chicago, New York City, or Washington.")
     
     while True:
-        month = input("Which month? January, February, March, April, May, June or 'all': ").lower()
+        month = input("Which month??? January, February, March, April, May, June or 'all': ").lower()
         if month in months:
             break
         else:
